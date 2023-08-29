@@ -1,0 +1,4 @@
+
+eth.getBlock(8)
+eth.getBlock(7)
+eth.getBlock(6)
